@@ -1,0 +1,12 @@
+{
+  "layer": [
+    {
+      "name": "Player",
+      "value": 1
+    },
+    {
+      "name": "Walls",
+      "value": 2
+    }
+  ]
+}

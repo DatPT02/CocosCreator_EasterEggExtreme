@@ -1,0 +1,12 @@
+{
+  "name": "Easter Egg Extreme",
+  "type": "3d",
+  "uuid": "52585a92-ec8e-4f1d-a262-0d3e5dfb3f9f",
+  "version": "3.4.0",
+  "creator": {
+    "version": "3.4.0"
+  },
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
